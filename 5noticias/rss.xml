@@ -27,7 +27,7 @@
             <itunes:name>Howard</itunes:name>
             <itunes:email>inghoward@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://raw.githubusercontent.com/inghoward/podcast-rss/refs/heads/main/5noticias/logo.png"/>
+        <itunes:image href="https://inghoward.github.io/5noticias/logo.png"/>
         <atom:link href="https://inghoward.github.io/5noticias/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>
