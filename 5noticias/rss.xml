@@ -4,7 +4,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Las 5 noticias de tecnología más destacadas del día</title>
-    <link>https://podcasts.clusterofthings.com</link>
+    <link>https://inghoward.github.io/podcast-rss/</link>
     <description>Tu fuente diaria de las 5 noticias tecnológicas más importantes. Analizamos las últimas tendencias y exploramos innovaciones para mantenerte informado en un sector en constante evolución.</description>
     <language>es-co</language>
     <pubDate>Thu, 30 Oct 2025 15:18:57 GMT</pubDate>
@@ -15,7 +15,7 @@
     <itunes:type>episodic</itunes:type> 
     
     <itunes:category text="Technology">
-      <itunes:category text="Tech News" />
+      <itunes:category text="News" />
     </itunes:category>
 
     <itunes:owner>
@@ -23,15 +23,30 @@
       <itunes:email>inghoward@gmail.com</itunes:email>
     </itunes:owner>
     
-    <itunes:image href="https://inghoward.github.io/5noticias/logo.png" />
+    <itunes:image href="https://raw.githubusercontent.com/inghoward/podcast-rss/refs/heads/main/5noticias/logo.png" />
 
-    <atom:link href="https://inghoward.github.io/5noticias/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inghoward.github.io/podcast-rss/5noticias/podcast.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Las 5 noticias de tecnología mas destacadas del 30/10/2025</title>
+      <description>Entérate de las 5 noticias de tecnología mas destacadas del 10/30/2025</description>
+      <pubDate>Thu, 30 Oct 2025 15:18:57 GMT</pubDate>
+      
+      <itunes:duration>05:00</itunes:duration> 
+      <itunes:author>Howard</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+
+      <enclosure url="https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3" length="3740000" type="audio/mpeg" />
+      
+      <guid isPermaLink="true">https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3</guid>
+    </item>
+    
     
 <item>
-  <title>Las 1 noticias de tecnología mas destacadas del 10/30/2025</title>
+  <title>Las 5 noticias de tecnología mas destacadas del 10/30/2025</title>
   <description>Entérate de las 5 noticias de tecnología mas destacadas del 10/30/2025</description>
-  <pubDate>Thu, 30 Oct 2025 16:07:17 GMT</pubDate>
-  <enclosure url="https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3" length="3.74 MB" type="audio/mpeg" />
+  <pubDate>Thu, 30 Oct 2025 16:47:15 GMT</pubDate>
+  <enclosure url="https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3" length="3921674" type="audio/mpeg" />
   <guid isPermaLink="true">https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3</guid>
   <link>https://podcasts.clusterofthings.com</link>
   <itunes:explicit>no</itunes:explicit>
