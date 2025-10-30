@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:atom="http://www.w3.org/2005/Atom">
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>
         Las 5 noticias de tecnología más destacadas del día
         </title>
-        <link>https://inghoward.github.io/podcast-rss/</link>
+        <link>https://podcasts.clusterofthings.com</link>
         <description>
         Tu fuente diaria de las 5 noticias tecnológicas más importantes. Analizamos las últimas tendencias y exploramos innovaciones para mantenerte informado en un sector en constante evolución.
         </description>
         <language>es-co</language>
         <pubDate>Thu, 30 Oct 2025 15:18:57 GMT</pubDate>
+        <copyright>© 2025 Howard | Cluster Of Things LLC. All rights reserved.</copyright>
         <itunes:author>Howard | Las 5 noticias Tech</itunes:author>
         <itunes:summary>
         Tu fuente diaria de las 5 noticias tecnológicas más importantes...
@@ -38,14 +40,16 @@
             <itunes:duration>05:00</itunes:duration>
             <itunes:author>Howard</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:summary>
-            Tu fuente diaria de las 5 noticias tecnológicas del 30/10/2025
-            </itunes:summary>
+            <itunes:summary>Tu fuente diaria de las 5 noticias tecnológicas del 30/10/2025</itunes:summary>
             <enclosure url="https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3" length="3740000" type="audio/mpeg"/>
             <guid isPermaLink="true">
             https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3
             </guid>
             <link>https://podcasts.clusterofthings.com/</link>
+            <content:encoded><![CDATA[
+                Entérate de las 5 noticias de tecnología mas destacadas del día.
+                <p>¡No olvides revisar nuestro enlace de afiliado a ElevenLabs para empezar a automatizar! <a href="[TU ENLACE]">Empieza aquí</a></p>
+            ]]></content:encoded>
         </item>
     </channel>
 </rss>
