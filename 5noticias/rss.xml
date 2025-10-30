@@ -38,6 +38,9 @@
             <itunes:duration>05:00</itunes:duration>
             <itunes:author>Howard</itunes:author>
             <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>
+            Tu fuente diaria de las 5 noticias tecnológicas del 30/10/2025
+            </itunes:summary>
             <enclosure url="https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3" length="3740000" type="audio/mpeg"/>
             <guid isPermaLink="true">
             https://podcasts.clusterofthings.com/wp-content/uploads/2025/10/podcast-30-10-2025.mp3
