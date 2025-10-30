@@ -23,9 +23,9 @@
       <itunes:email>inghoward@gmail.com</itunes:email>
     </itunes:owner>
     
-    <itunes:image href="https://raw.githubusercontent.com/inghoward/podcast-rss/refs/heads/main/5noticias/logo.png" />
+    <itunes:image href="https://inghoward.github.io/5noticias/logo.png" />
 
-    <atom:link href="https://inghoward.github.io/podcast-rss/5noticias/podcast.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://inghoward.github.io/5noticias/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Las 5 noticias de tecnología mas destacadas del 30/10/2025</title>
