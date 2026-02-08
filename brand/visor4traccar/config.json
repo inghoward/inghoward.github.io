@@ -9,8 +9,8 @@
   "cliente": "Visor 4 Traccar",
   "descripcion": "Rastreo satelital de marca blanca",
   "editableBrand": false,
-  "appType": "anual",
-  "iaEnabled": true,
+  "appType": "traccar",
+  "iaEnabled": false,
   "registerEnable": true,
   "colors": {
     "primary": "#000099",

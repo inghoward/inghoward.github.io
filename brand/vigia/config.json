@@ -8,8 +8,15 @@
   "plataforma": "vigia",
   "cliente": "GPS Visor",
   "descripcion": "Rastreo satelital de marca blanca",
-  "editableBrand": false,
-  "appType": "anual",
-  "iaEnabled": false,
-  "registerEnable": false
+  "editableBrand": true,
+  "appType": "libre",
+  "iaEnabled": true,
+  "registerEnable": false,
+  "colors": {
+    "primary": "#000099",
+    "secondary": "#2E7D32",
+    "neutral": "#9E9E9E",
+    "geometry": "#3bb2d0",
+    "statusBarButton": "#2E7D32"
+  }
 }

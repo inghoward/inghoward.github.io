@@ -10,6 +10,13 @@
   "descripcion": "Rastreo satelital",
   "editableBrand": true,
   "appType": "anual",
-  "iaEnabled": false,
-  "registerEnable": false
+  "registerEnable": false,
+  "iaEnabled": true,
+  "colors": {
+    "primary": "#000099",
+    "secondary": "#2E7D32",
+    "neutral": "#9E9E9E",
+    "geometry": "#3bb2d0",
+    "statusBarButton": "#2E7D32"
+  }
 }

@@ -9,7 +9,14 @@
   "cliente": "GPS Visor",
   "descripcion": "Rastreo satelital de marca blanca",
   "editableBrand": true,
-  "appType": "anual",
-  "iaEnabled": true,
-  "registerEnable": false
+  "appType": "libre",
+  "registerEnable": false,
+  "iaEnabled": false,
+  "colors": {
+    "primary": "#000099",
+    "secondary": "#2E7D32",
+    "neutral": "#9E9E9E",
+    "geometry": "#3bb2d0",
+    "statusBarButton": "#2E7D32"
+  }
 }
