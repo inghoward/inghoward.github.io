@@ -1,0 +1,15 @@
+{
+  "direccion": "Carrera 34b #55a206 barrio las camelias, Colombia.",
+  "telefono": "3022420496",
+  "email": "gpssatelitrack@gmail.com",
+  "whatsapp": "+543002349978",
+  "adicional": " ",
+  "serverIp": "51.222.10.230",
+  "plataforma": "satelitrack",
+  "cliente": "GPS Satelitrack",
+  "descripcion": "Rastreo satelital",
+  "editableBrand": true,
+  "appType": "anual",
+  "iaEnabled": false,
+  "registerEnable": false
+}
