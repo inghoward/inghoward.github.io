@@ -12,6 +12,7 @@
   "appType": "anual",
   "iaEnabled": true,
   "registerEnable": false,
+  "bottomMenuText": true,
   "colors": {
     "primary": "#000099",
     "secondary": "#2E7D32",

@@ -1,1 +1,23 @@
-{"direccion":"Bogotá ","telefono":"+130599837","email":"info@latamgps.com","whatsapp":"+13059983778","adicional":"¿Instalas GPS? ¡Ofrece rastreo satelital con tu propia plataforma de marca blanca! Personalizada, rentable y sin costos de desarrollo. Con tus apps en Play Store y App Store. ¡Empieza hoy y haz crecer tu negocio!","serverIp":"148.113.170.235","plataforma":"realtime","cliente":"GPS Realtime","descripcion":"Rastreo Satelital","editableBrand":true,"appType":"libre","iaEnabled":false,"registerEnable":false,"colors":{"primary":"#000099","secondary":"#2E7D32","neutral":"#9E9E9E","geometry":"#3bb2d0","statusBarButton":"#2E7D32"}}
+{
+    "direccion": "Bogotá ",
+    "telefono": "+130599837",
+    "email": "info@latamgps.com",
+    "whatsapp": "+13059983778",
+    "adicional": "¿Instalas GPS? ¡Ofrece rastreo satelital con tu propia plataforma de marca blanca! Personalizada, rentable y sin costos de desarrollo. Con tus apps en Play Store y App Store. ¡Empieza hoy y haz crecer tu negocio!",
+    "serverIp": "148.113.170.235",
+    "plataforma": "realtime",
+    "cliente": "GPS Realtime",
+    "descripcion": "Rastreo Satelital",
+    "editableBrand": true,
+    "appType": "libre",
+    "iaEnabled": false,
+    "registerEnable": false,
+    "bottomMenuText": true,
+    "colors": {
+        "primary": "#000099",
+        "secondary": "#2E7D32",
+        "neutral": "#9E9E9E",
+        "geometry": "#3bb2d0",
+        "statusBarButton": "#2E7D32"
+    }
+}
