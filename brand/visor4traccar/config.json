@@ -12,6 +12,7 @@
   "appType": "traccar",
   "iaEnabled": false,
   "registerEnable": true,
+  "bottomMenuText": true,
   "colors": {
     "primary": "#000099",
     "secondary": "#2E7D32",
