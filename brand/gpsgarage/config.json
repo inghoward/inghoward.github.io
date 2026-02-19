@@ -1,8 +1,9 @@
 {
   "direccion": "Calle 55 # 21-37 Bucaramanga, Colombia",
-  "telefono": 3176122031,
+  "telefono": "3176122031",
   "email": "www.gpsgaragebga@gmail.com",
-  "whatsapp": 3176122031,
+  "whatsapp": "+573176122031",
+  "telegram": "",
   "adicional": "Venta e instalacion de equipos de rastreo GPS 4G, servicio a nivel nacional ",
   "serverIp": "51.222.10.230",
   "plataforma": "gpsgarage",
