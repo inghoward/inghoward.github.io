@@ -17,6 +17,8 @@
     "colors": {
         "primary": "#000066",
         "secondary": "#2E7D32",
-        "neutral": "#9E9E9E"
+        "neutral": "#9E9E9E",
+        "geometry": "#3bb2d0",
+        "statusBarButton": "#2E7D32"
     }
 }
