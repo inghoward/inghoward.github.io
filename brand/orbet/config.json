@@ -15,10 +15,19 @@
   "registerEnable": true,
   "bottomMenuText": true,
   "colors": {
-    "primary": "#000099",
-    "secondary": "#2E7D32",
-    "neutral": "#9E9E9E",
-    "geometry": "#3bb2d0",
-    "statusBarButton": "#2E7D32"
+    "light": {
+      "primary": "#ffffff",
+      "secondary": "#2E7D32",
+      "neutral": "#9E9E9E",
+      "geometry": "#3bb2d0",
+      "statusBarButton": "#2E7D32"
+    },
+    "dark": {
+      "primary": "#1c1c1c",
+      "secondary": "#2E7D32",
+      "neutral": "#9E9E9E",
+      "geometry": "#3bb2d0",
+      "statusBarButton": "#2E7D32"
+    }
   }
 }
