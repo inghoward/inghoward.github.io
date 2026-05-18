@@ -13,5 +13,5 @@
     "appType": "anual",
     "iaEnabled": false,
     "registerEnable": false,
-    "bottomMenuText": false
+    "bottomMenuText": true
 }
