@@ -9,7 +9,7 @@
     "plataforma": "servisecurity",
     "cliente": "Servisecurity",
     "descripcion": "Rastreo satelital de marca blanca",
-    "editableBrand": false,
+    "editableBrand": true,
     "appType": "libre",
     "iaEnabled": false,
     "registerEnable": false,
