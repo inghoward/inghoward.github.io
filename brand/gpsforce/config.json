@@ -1,1 +1,31 @@
-{"direccion":"CRA 22# 53-10 esquina barrio la concordia. Bucaramanga","telefono":"+57 304 6425099","email":"gpsforce53@gmail.com","whatsapp":"+573046425099","telegram":null,"adicional":" ","serverIp":"144.217.212.248","plataforma":"gpsforce","cliente":"GPS Force","descripcion":"Rastreo satelital","editableBrand":true,"appType":"anual","iaEnabled":false,"registerEnable":false,"bottomMenuText":true,"colors":{"light":{"primary":"#0054e9","secondary":"#0163aa","neutral":"#6030ff"},"dark":{"primary":"#0054e9","secondary":"#0163aa","neutral":"#6030ff"}}}
+{
+    "direccion": "CRA 22# 53-10 esquina barrio la concordia. Bucaramanga",
+    "telefono": "+57 304 6425099",
+    "email": "gpsforce53@gmail.com",
+    "whatsapp": "+573046425099",
+    "telegram": null,
+    "adicional": " ",
+    "serverIp": "144.217.212.248",
+    "plataforma": "gpsforce",
+    "cliente": "GPS Force",
+    "descripcion": "Rastreo satelital",
+    "editableBrand": true,
+    "appType": "anual",
+    "iaEnabled": false,
+    "registerEnable": false,
+    "licenseRequestEnabled": false,
+    "licenseRequestAfterDays": 7,
+    "bottomMenuText": true,
+    "colors": {
+        "light": {
+            "primary": "#0054e9",
+            "secondary": "#0163aa",
+            "neutral": "#6030ff"
+        },
+        "dark": {
+            "primary": "#0054e9",
+            "secondary": "#0163aa",
+            "neutral": "#6030ff"
+        }
+    }
+}

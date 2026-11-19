@@ -14,6 +14,8 @@
     "iaEnabled": false,
     "registerEnable": true,
     "bottomMenuText": false,
+    "licenseRequestEnabled": false,
+    "licenseRequestAfterDays": 7,
     "colors": {
         "light": {
             "primary": "#dcdcdc",
